@@ -12,6 +12,6 @@ Three The key business questions to answer are the following:
 [(Link here)](https://github.com/Quynhcao-jane/Dashboard/blob/main/How%20To%20Increase%20Total%20Sales%20Of%20Data%20Mart%20In%20Asian%20Market.md)
 
 This projects includes:
-- Cleaning, import and visualize data on Power Bi
+- Clean, import and visualize data on Power BI
 - Overview and Asian Market dashboards
 - Analyze Asian Market and give suggestions to increase total sales on this market
