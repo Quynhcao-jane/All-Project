@@ -9,7 +9,7 @@ Three The key business questions to answer are the following:
 - What can we do about future introduction of similar sustainability updates to the business to minimise impact on sales?
 
 **#2. Analyze sales performance of Data Mart in Asian market and suggest how to increase the total sales**
-[(Link here)]https://github.com/Quynhcao-jane/Dashboard/blob/main/How%20To%20Increase%20Total%20Sales%20Of%20Data%20Mart%20In%20Asian%20Market.md)
+[(Link here)](https://github.com/Quynhcao-jane/Dashboard/blob/main/How%20To%20Increase%20Total%20Sales%20Of%20Data%20Mart%20In%20Asian%20Market.md)
 
 This projects includes:
 - Cleaning, import and visualize data on Power Bi
